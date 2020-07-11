@@ -1,0 +1,20 @@
+#SuggestName{
+    color :  #ef2009 ;
+    font-weight: 1000;
+    /* margin-bottom: 0px; */
+}
+
+#SuggestPoint{
+    color: #757271 ;
+    margin-top: 1%;
+    font-size: 20px;
+}
+
+hr{
+    border: 3px solid red;
+    width: 3%;
+    /* text-align: left; */
+    margin: 0px;
+    border-radius: 10px;;
+}
+
