@@ -8,7 +8,7 @@ function suggested(){
     name[5] = "Chinmaya";
     name[6] = "Akshay kumar";
     name[7] = "Abhishek Kumar";
-    name[8] = "Lomad";
+    name[8] = "Ajay Abhishek";
     name[9] = "Adarsh Sahoo";
     name[10] = "Bimla Rani Patro";
     name[11] = "Swaraj Kumar Swain";
